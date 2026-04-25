@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+cards:
+  message: "Welcome to the Accounts Service! Prod Environment"
+  contactDetails:
+    name: "Robert Brown - Support Engineer"
+    email: "rbrown@ograciano.com"
+  onCallSupport:
+    - (618) 138-7368
+    - (618) 138-7369

@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+cards:
+  message: "Welcome to the Accounts Service!"
+  contactDetails:
+    name: "John Doe - Developer"
+    email: "john@ograciano.com"
+  onCallSupport:
+    - (618) 138-7364
+    - (618) 138-7365

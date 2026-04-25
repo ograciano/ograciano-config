@@ -1,0 +1,12 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to the Accounts Service! QA Environment"
+  contactDetails:
+    name: "Susan Smith - QA Engineer"
+    email: "smith@ograciano.com"
+  onCallSupport:
+    - (618) 138-7366
+    - (618) 138-7367
+
