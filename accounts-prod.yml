@@ -2,9 +2,9 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to the Accounts Service! Prod Environment"
+  message: "Welcome to the Accounts Service! Prod Environment!!"
   contactDetails:
-    name: "Robert Brown - Support Engineer"
+    name: "Robert Brown - Support Engineer!!"
     email: "{cipher}96f3cebe0a241b08c881faece0277115e6f8e2124277fbee200bd0838973779db40ba957e9069e25fa903c53bb4dc3c3"
   onCallSupport:
     - (618) 138-7368
