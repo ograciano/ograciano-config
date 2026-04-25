@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to the Accounts Service!"
   contactDetails:
     name: "John Doe - Developer"
-    email: "john@ograciano.com"
+    email: "05dcf35c2a8efb2b25e6da85221454f7e8ced9c303c28b329a1f95c572d5f29c92c02c414653a9be2b78d2ac79715bf4"
   onCallSupport:
     - (618) 138-7364
     - (618) 138-7365
