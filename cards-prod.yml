@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Welcome to the Accounts Service! Prod Environment"
+  message: "Welcome to the Accounts Service! Producction Environment"
   contactDetails:
     name: "Robert Brown - Support Engineer"
     email: "rbrown@ograciano.com"
