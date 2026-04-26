@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to the Accounts Service!!"
+  message: "Welcome to the Accounts Service docker"
   contactDetails:
     name: "John Doe - Developer"
     email: "{cipher}05dcf35c2a8efb2b25e6da85221454f7e8ced9c303c28b329a1f95c572d5f29c92c02c414653a9be2b78d2ac79715bf4"
