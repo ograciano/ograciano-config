@@ -4,7 +4,7 @@ server:
 eureka:
   instance:
     hostname: localhost
-  clinet:
+  client:
     fetchRegistry: false
     registerWithEureka: false
     serviceUrl:
